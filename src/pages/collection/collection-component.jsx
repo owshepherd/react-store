@@ -1,4 +1,3 @@
-import { getByTitle } from '@testing-library/dom';
 import React from 'react';
 import { connect } from 'react-redux';
 import { selectShopCollection } from '../../redux/shop/shop-selectors';
